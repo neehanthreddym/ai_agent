@@ -6,5 +6,6 @@ langchain-google-genai
 langchain_core
 langgraph
 wikipedia
+yfinance
 youtube-search-python
 youtube-search
