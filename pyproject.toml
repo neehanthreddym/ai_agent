@@ -12,6 +12,7 @@ dependencies = [
     "langchain-google-genai>=4.2.0",
     "langgraph>=1.0.8",
     "python-dotenv>=1.2.1",
+    "wikipedia>=1.4.0",
     "youtube-search>=2.2.0",
     "youtube-search-python>=1.6.6",
 ]

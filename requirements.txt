@@ -5,5 +5,6 @@ langchain_community
 langchain-google-genai
 langchain_core
 langgraph
+wikipedia
 youtube-search-python
 youtube-search
